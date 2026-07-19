@@ -4,7 +4,7 @@ cd /d "%~dp0"
 set NODE_USE_SYSTEM_CA=1
 set NODE_OPTIONS=--use-system-ca
 echo ============================================
-echo  電子署名チェッカー  データ更新
+echo  トウシテナ  データ更新
 echo ============================================
 echo.
 echo 法務省ページから最新データを取得中...

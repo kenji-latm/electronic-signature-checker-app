@@ -1,4 +1,5 @@
 {
+  "name": "toshitena",
   "private": true,
   "scripts": {
     "scrape": "node --use-system-ca scraper/update-from-moj.js"
